@@ -35,7 +35,7 @@ int main(){
 
     printf("%s\n\n", concor);
 
-    char cuenta[] = "Thiago.Jofre";
+    char cuenta[] = "NAME";
 
     printf("Bienvenido a su cuenta: %s\n\n", cuenta);
 
